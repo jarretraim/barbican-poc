@@ -8,7 +8,7 @@ SQLAlchemy==1.2.18
 WTForms==3.0.0a1
 Werkzeug==0.11.11
 argparse==1.2.1
-ipython==3.2.1
+ipython==8.10.0
 python-dateutil==2.1
 six==1.2.0
 wsgiref==0.1.2
